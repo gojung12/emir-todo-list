@@ -1,0 +1,22 @@
+.kotak1 .kotak1k{
+  display: flex;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+}
+
+.kotak2{
+  background-color: black;
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  margin-left: 50px;
+
+}
+
+.kotak2 .kotak2k{
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
